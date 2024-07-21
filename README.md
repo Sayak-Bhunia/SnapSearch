@@ -39,7 +39,7 @@ Before creating this app, ensure you have the following dependencies in your sys
     ```
 4. Set Up Your Exa API Key
    
-   - Obtain your API key from [[Exa][exa-url]](https://dashboard.exa.ai/api-keys).
+   - Obtain your API key from [Exa](https://dashboard.exa.ai/api-keys).
    - Create a .env file in the root directory of your project with the following content:
    ```bash
    EXA_API_KEY=your_exa_api_key
@@ -68,5 +68,5 @@ For any questions, feel free to reach out to us at sbhunia2903@gmail.com.
 
 ## Acknowledgements 🙏
 
-- [[Exa][exa-url]](https://dashboard.exa.ai/api-keys)
-- [Streamlit][exa-url]
+- [Exa](https://dashboard.exa.ai/api-keys)
+- [Streamlit](https://streamlit.io/)
